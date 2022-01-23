@@ -35,7 +35,7 @@ Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete
 * PaymentMethod ( Müşterinin ödeme yöntemi (Elektronik çek, Posta çeki, Banka havalesi (otomatik), Kredi kartı (otomatik) )
 * MonthlyCharges ( Müşteriden aylık olarak tahsil edilen tutar )
 * TotalCharges ( Müşteriden tahsil edilen toplam tutar )
-* Churn ( Müşterinin kullanıp kullanmadığı (Evet veya Hayır) )
+* Churn ( Müşterinin kalıp kalmadığı (Evet veya Hayır) )
 
 ##### 21 Değişken 7043 Gözlem
 ##### Bağımllı değişken : Churn
