@@ -4,7 +4,7 @@
 ### İş Problemi
 
 Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir. 
-Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirilecektir.
+Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımları gerçekleştirilecektir.
 
 
 ### Veri Seti Hikayesi
